@@ -15,5 +15,5 @@ This is my personal portfolio website built using HTML, CSS, Bootstrap, and Java
 - Contact form
 
 ## 📌 Live Preview
-[Click here to view](https://your-deployment-link.com)
+[Click here to view](https://ajaysiripuram.github.io/MyPortfolio/)
 
